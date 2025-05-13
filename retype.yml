@@ -8,8 +8,8 @@ breadcrumb:
 branding:
   title: "imperial"
   label: fastflags.space
-  logo: assets/icon.gif
-  logoDark: assets/dark_icon.gif
+  logo: assets/icon.png
+  logoDark: assets/dark_icon.png
 links:
 - text: Discord
   link: https://discord.gg/6zqNQTSkrg
