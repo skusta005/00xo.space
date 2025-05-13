@@ -1,6 +1,5 @@
 input: .
 output: .retype
-url: 00xo.space
 breadcrumb:
   enabled: true
   home: ":icon-home:"
