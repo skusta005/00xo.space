@@ -6,10 +6,6 @@ breadcrumb:
   home: ":icon-home:"
   separator: "|"
 branding:
-  colors:
-    label: fastflags.space
-      background: "#000000"
-      text: "#9000ff"
   title: "imperial"
   logo: assets/white_crown.gif
 links:
