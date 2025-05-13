@@ -5,6 +5,6 @@ icon: rel-file-path
 
 <div align="center">
 
-# ୨ৎ
+୨ৎ
 
 </div>
