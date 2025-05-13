@@ -7,7 +7,6 @@ breadcrumb:
   separator: "|"
 branding:
   title: "imperial"
-  colors: "#00000f"
   label: fastflags.space
   background: "#9000ff"
   logo: assets/white_crown.gif
