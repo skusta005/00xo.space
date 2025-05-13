@@ -7,7 +7,9 @@ breadcrumb:
   separator: "|"
 branding:
   title: "imperial"
+  colors: "#000000"
   label: fastflags.space
+      background: "#9000ff"
   logo: assets/white_crown.gif
 links:
 - text: Discord
