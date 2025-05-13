@@ -9,7 +9,6 @@ branding:
   title: "imperial"
   label: fastflags.space
   logo: assets/white_crown.gif
-  logoDark: assets/dark_icon.png
 links:
 - text: Discord
   link: https://discord.gg/6zqNQTSkrg
