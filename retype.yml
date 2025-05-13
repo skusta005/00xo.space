@@ -1,0 +1,20 @@
+input: .
+output: .retype
+url: 00xo.space
+breadcrumb:
+  enabled: true
+  home: ":icon-home:"
+  separator: "|"
+branding:
+  title: "imperial"
+  label: fastflags.space
+  logo: assets/icon.gif
+  logoDark: assets/dark_icon.gif
+links:
+- text: Discord
+  link: https://discord.gg/6zqNQTSkrg
+  icon: home
+footer:
+  copyright: "&copy; Copyright {{ year }} – [00xo.space](https://fastflags.space) – All rights reserved."
+meta:
+  title: " | 00xo.space"
