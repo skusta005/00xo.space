@@ -1,4 +1,5 @@
 ---
+title: .
 layout: central
 icon: rel-file-path	
 ---
